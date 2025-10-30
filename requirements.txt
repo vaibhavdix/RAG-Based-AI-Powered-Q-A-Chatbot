@@ -1,0 +1,11 @@
+langchain==0.3.7
+langchain-community==0.3.7
+huggingface_hub==0.23.2
+langchain-core==0.3.18
+langchain-huggingface==0.1.2
+python-dotenv==1.0.1
+streamlit
+beautifulsoup4==4.12.2
+numpy
+sentence-transformers
+faiss-cpu
